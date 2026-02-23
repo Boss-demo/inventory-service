@@ -1,0 +1,24 @@
+{
+  "name": "inventory-service",
+  "version": "0.0.0",
+  "description": "Inventory Service manages stock levels, product availability, and inventory updates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boss-demo/inventory-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Boss-demo/inventory-service/issues"
+  },
+  "homepage": "https://github.com/Boss-demo/inventory-service#readme",
+  "devDependencies": {
+    "semantic-release": "^25.0.3"
+  }
+}

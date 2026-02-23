@@ -1,1 +1,1 @@
-console.log("inventory-service running");
+console.log("updated the inventory..");
